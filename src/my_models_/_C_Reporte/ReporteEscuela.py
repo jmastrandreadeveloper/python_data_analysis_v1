@@ -7,13 +7,26 @@ import src.tools.DataFrameToTabla as DataFrameToTabla
 import src.tools.DictToDataFrame as DictToDataFrame
 import pandas as pd
 
-import src.my_models_._A_Nominal_.classNominal as mainNom
+
+from src.my_models_.__group_and_filter._df_Escuela_ID_Alumno_ID_count import filtrar_df_Escuela_ID_Alumno_ID_count
+from src.my_models_.__group_and_filter._df_Escuela_ID_CURSO_NORMALIZADO_list import filtrar_df_Escuela_ID_CURSO_NORMALIZADO_list
+from src.my_models_.__group_and_filter.filter_datos_institucionales import filtrar_datos_institucionales
+
 
 class ReporteEscuela() :
 
-    def __init__(self, nominal : mainNom):
+    def __init__(self,                 
+                 listaEscuelas_IDs: list,
+                 df_nominal_datos_institucionales : pd.DataFrame,
+                 Agrupado_df_Escuela_ID_Alumno_ID_count: pd.DataFrame,
+                 Agrupado_df_lista_de_cursos_normalizados: pd.DataFrame):
+        
         print('..haciendo reporte por escuela..')
-        self.nominal = nominal
+        self.listaEscuelas_IDs = listaEscuelas_IDs
+        self.df_nominal_datos_institucionales = df_nominal_datos_institucionales
+        self.Agrupado_df_Escuela_ID_Alumno_ID_count = Agrupado_df_Escuela_ID_Alumno_ID_count
+        self.Agrupado_df_lista_de_cursos_normalizados = Agrupado_df_lista_de_cursos_normalizados
+        self.do_report()
 
     def do_report(self):
         self.do_report_escuela()
@@ -26,13 +39,13 @@ class ReporteEscuela() :
             'Escuela_ID' : None,
             'datos institucionales' : None
         }
-        for Escuela_ID in self.nominal.xxx:
+        for Escuela_ID in self.listaEscuelas_IDs:
             dictDatos = {
                 'Escuela_ID' : Escuela_ID,
                 'data' : {
-                    #'datos_institucionales' : self.filtro._nominal_df_nominal_datos_institucionales(Escuela_ID),                    
-                    #'lista_de_cursos_escuela' : self.filtro._nominal_lista_de_cursos_escuela(Escuela_ID),
-                    'matricula_por_escuela' : self.nominal.agrupado_df_Escuela_ID_Alumno_ID_count ,
+                    'datos_institucionales' : filtrar_datos_institucionales(Escuela_ID , self.df_nominal_datos_institucionales),                    
+                    'lista_de_cursos_escuela' : filtrar_df_Escuela_ID_CURSO_NORMALIZADO_list(Escuela_ID , self.Agrupado_df_lista_de_cursos_normalizados),
+                    'matricula_por_escuela' : filtrar_df_Escuela_ID_Alumno_ID_count(Escuela_ID , self.Agrupado_df_Escuela_ID_Alumno_ID_count),
                     #'matricula_por_escuela_curso' : self.filtro._nominal_df_Escuela_ID_CURSO_NORMALIZADO_Alumno_ID_count(Escuela_ID),
                     #'matricula_por_escuela_curso_división' : self.filtro._nominal_df_Escuela_ID_CURSO_NORMALIZADO_División_Alumno_ID_count(Escuela_ID),
                     #'fluidez lectora 1' : {

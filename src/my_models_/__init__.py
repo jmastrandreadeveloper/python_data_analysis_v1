@@ -10,9 +10,6 @@ from src.my_models_.__process.quitar_columnas import quitar_columnas_
 from src.my_models_.__process.reordenar_columnas import reordenar_columnas_
 from src.my_models_.__process.ordenar_dataframe_por_columnas import ordenar_dataframe_por_columnas_
 
-from src.my_models_.__group_and_filter.Class_df_Escuela_ID_Alumno_ID_count import Class_df_Escuela_ID_Alumno_ID_count
-
-
 # Opcional: Define qué submódulos están disponibles para importación
 __all__ = [
     'conservar_filas_',
@@ -25,6 +22,4 @@ __all__ = [
     'quitar_columnas_',
     'reordenar_columnas_',
     'ordenar_dataframe_por_columnas_',
-
-    'Class_df_Escuela_ID_Alumno_ID_count',
 ]

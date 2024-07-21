@@ -1,5 +1,5 @@
 # Archivo __init__.py
-from .classNominal import Nominal
+from .Nominal import Nominal
 
 __all__ = [
     'Nominal',
