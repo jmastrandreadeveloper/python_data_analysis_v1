@@ -19,7 +19,9 @@ def main():
         nom.listaEscuelas_IDs ,
         nom.df_nominal_datos_institucionales,
         gNom.Agrupado_df_Escuela_ID_Alumno_ID_count,
-        gNom.Agrupado_df_lista_de_cursos_normalizados
+        gNom.Agrupado_df_lista_de_cursos_normalizados,
+        gNom.Agrupado_df_Escuela_ID_CURSO_NORMALIZADO_Alumno_ID_count,
+        gNom.Agrupado_df_Escuela_ID_CURSO_NORMALIZADO_División_Alumno_ID_count,
     )
     
 

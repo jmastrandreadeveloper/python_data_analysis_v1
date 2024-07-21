@@ -11,7 +11,7 @@ def agrupar_df_Escuela_ID_Alumno_ID_count(dataframe) -> pd.DataFrame:
         raise ValueError(f'Las columnas especificadas no existen en el dataframe. Columnas faltantes: {missing_columns}')
     
     
-def filtrar_df_Escuela_ID_Alumno_ID_count(Escuela_ID, dataframe) -> int:# Filtrar el DataFrame por Escuela_ID
+def filtrar_df_Escuela_ID_Alumno_ID_count(Escuela_ID : int, dataframe: pd.DataFrame) -> int:# Filtrar el DataFrame por Escuela_ID
     dFrame_filtrado = dataframe[dataframe['Escuela_ID'] == Escuela_ID]
     
     # Devolver el primer valor de Alumno_ID como entero
