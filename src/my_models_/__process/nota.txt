@@ -1,0 +1,1 @@
+acá van las funciones de procesameinto y agregación comunes a los dos modelos

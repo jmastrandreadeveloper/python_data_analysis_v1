@@ -1,0 +1,62 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------
+- sobre el uso de Python dentro de Visual Studio Code
+    .- Seguir los paso de los entornos virtuales
+    .- Cuando hemos escrito algún código en python, pulsamos la combinación de teclas ctrl+p 
+    esto es útil para poder setear la versión de python que tenemos instalada dentro del entorno virtual
+    .- Escribir signo de > y luego python interpreter, de ahí seleccionamos el que está instalado dentro del entorno
+    lo va a mostrar con una estrellita rellena.
+    
+    .- Formatear el código de Python en Visual Studio Code
+    .- ctrl+p signo de >  formatear documento , usamos autopep8..
+    
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+- sobre Python.
+    ---------------------------- uso de entornos virtuales.
+    .- Recomendable crear entornos virtuales para instalar nuevas versiones de python.
+    .- No hacerlo a nivel global de la instalación de linux.!!
+    .- Cada vez que vaya a crear un proyecto, hacerlo dentro de la carpeta PYTHON/PROYECTOS !!
+
+    Creamos una carpeta dentro de la carpeta PROYECTOS usando el mismo Visual Studio Code, por ejemplo Proyecto-0000
+    Cambiamos a esa carpeta desde el mismo Visual Studio Code. : 
+    
+                                LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX
+                                                sudo apt install python3-venv -y
+                                                cambiamos de directorio..en donde queramos el entorno virtual..
+                                                python3 -m venv .linux_venv
+                                                source .linux_venv/bin/activate
+                                                par mi caso sería source linux_venv/bin/activate
+
+                                WINDOWS WINDOWS WINDOWS WINDOWS WINDOWS WINDOWS WINDOWS WINDOWS WINDOWS WINDOWS                                                 
+                                                
+                                                PS E:\GitHub\JMastrandrea.DEVELOPER\RepPython> python -m venv .virtualenvWindows
+                                                PS E:\GitHub\JMastrandrea.DEVELOPER\RepPython> .windows_venv/Scripts/activate
+                                                (.windows_ven) PS E:\GitHub\PYTHON_DATA_ANALYSIS
+    
+    Ejecutar por primera vez                        :   virtualenv .nombre (podemos usar el mismo nombre del Proyecto)
+    Activar el entorno virtual                      :   source Proyecto-xxxx/bin/activate
+    En Windows se activa asì                        :   Proyecto-xxxx/bin/activate o  .venvAndroid_1/Scripts/activate
+    
+    ......cuando lo activamos vamos a ver el nombre del entorno virtual al principio, y si hacemos dir vamos a ver que aparece dentro del proyecto
+    una carpeta con el mismo nombre...recordar que el nombre del entorno no necesariamente debe ser el mismo que el del proyecto..
+    Instalar pip dentro                             :   pip3 install --upgrade pip
+    Instalar paquetes dentro del entorno virtual    :   python -m pip install <package-name>
+    ... desactivar el entorno virtual : deactivate (lo escribimos tal cual.., no cambiamos de carpeta ni nada..)
+
+
+    ---------------------------- instalaciones y actualizaciones de python (HACERLO DENTRO DE LOS ENTORNOS VIRTUALES..!!!).--------------------------
+    
+    python3 --version
+    sudo apt update && sudo apt upgrade -y
+    sudo add-apt-repository ppa:deadsnakes/ppa
+    sudo apt update
+    apt list | grep python3.12
+
+    ---------------------------- actualización de pip
+    pip3 install --upgrade pip
+
+    
+----------------------------------------------------------------------------------------------------------------------------------------------------
+    - sobre Pandas y otras librerías relacionadas.
+    .- Seguir los pasos para instalar entornos virtuales...(SIEMPRE DENTRO DE LOS ENTORNOS VIRTUALES..!)
+    .- Ejecutar la instalación de Pandas y otras... :   python -m pip install pandas

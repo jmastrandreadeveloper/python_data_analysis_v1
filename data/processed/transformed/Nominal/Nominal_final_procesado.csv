@@ -1,0 +1,216 @@
+Nivel;Nivel_Unificado;Gestión;Supervisión;Escuela_ID;Departamento;Localidad;zona;AMBITO;Regional
+Primario;Primario;Pública;03 - Primario;9;LAS HERAS;LAS HERAS;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;14;CAPITAL;CUARTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;02 - Primario;22;CAPITAL;CIUDAD;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;60;CAPITAL;QUINTA SECCION;10%;Urbano marginal;NORTE
+Primario;Primario;Pública;02 - Primario;74;CAPITAL;SEGUNDA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;194;CAPITAL;SEXTA SECCION;60%;Marginal;NORTE
+Primario;Primario;Pública;01 - Primario;197;CAPITAL;SEXTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;02 - Primario;210;CAPITAL;TERCERA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;250;CAPITAL;CUARTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;253;CAPITAL;SEXTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;03 - Primario;288;LAS HERAS;PANQUEHUA;80%;Rural;NORTE
+Primario;Primario;Pública;03 - Primario;346;LAS HERAS;PANQUEHUA;60%;Urbano marginal;NORTE
+Primario;Primario;Pública;01 - Primario;378;CAPITAL;CUARTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;384;CAPITAL;CUARTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;03 - Primario;392;LAS HERAS;LA CIENEGUITA;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;393;CAPITAL;SEXTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;03 - Primario;417;LAS HERAS;LAS HERAS;60%;Urbano marginal;NORTE
+Primario;Primario;Pública;02 - Primario;457;CAPITAL;SEXTA SECCION;80%;Urbano marginal;NORTE
+Primario;Primario;Pública;01 - Primario;461;CAPITAL;SEXTA SECCION;80%;Marginal;NORTE
+Primario;Primario;Pública;02 - Primario;477;CAPITAL;SEXTA SECCION;80%;Urbano marginal;NORTE
+Primario;Primario;Pública;03 - Primario;478;LAS HERAS;PANQUEHUA;60%;Urbano marginal;NORTE
+Primario;Primario;Pública;03 - Primario;485;LAS HERAS;EL CHALLAO;80%;Marginal;NORTE
+Primario;Primario;Pública;03 - Primario;486;LAS HERAS;EL CHALLAO;60%;Urbano marginal;NORTE
+Primario;Primario;Pública;02 - Primario;494;LAS HERAS;EL CHALLAO;80%;Urbano marginal;NORTE
+Primario;Primario;Pública;03 - Primario;511;LAS HERAS;EL CHALLAO;80%;Marginal;NORTE
+Primario;Primario;Pública;03 - Primario;514;LAS HERAS;EL CHALLAO;10%;Urbano;NORTE
+Primario;Primario;Pública;03 - Primario;552;LAS HERAS;PANQUEHUA;60%;Urbano marginal;NORTE
+Primario;Primario;Pública;03 - Primario;582;LAS HERAS;EL CHALLAO;40%;Urbano marginal;NORTE
+Primario;Primario;Pública;03 - Primario;621;LAS HERAS;PANQUEHUA;60%;Marginal;NORTE
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;989;CAPITAL;QUINTA SECCION;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;990;CAPITAL;QUINTA SECCION;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;991;MAIPÚ;MAIPÚ;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;993;SAN MARTÍN;SAN MARTÍN;40%;Urbano;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;997;GUAYMALLÉN;VILLA NUEVA;10%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1004;JUNIN;JUNIN;80%;Urbano;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1008;GODOY CRUZ;SAN FRANCISCO DEL MONTE;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1010;LUJÁN DE CUYO;CHACRAS DE CORIA;10%;Urbano;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1012;CAPITAL;SEGUNDA SECCION;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1013;GUAYMALLÉN;LOS CORRALITOS;80%;Rural;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1015;SAN MARTÍN;ALTO VERDE;80%;Rural;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1018;GODOY CRUZ;GODOY CRUZ;60%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1022;LA PAZ;VILLA ANTIGUA;110%;Rural;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1023;TUNUYÁN;VISTA FLORES;80%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1024;GODOY CRUZ;LAS TORTUGAS;80%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1026;LUJÁN DE CUYO;UGARTECHE;80%;Rural;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1027;MAIPÚ;CRUZ DE PIEDRA;60%;Rural;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1034;LUJÁN DE CUYO;CARRODILLA;40%;Urbano;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1037;GUAYMALLÉN;VILLA NUEVA;40%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1038;GUAYMALLÉN;VILLA NUEVA;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1041;MAIPÚ;MAIPÚ;60%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1043;JUNIN;JUNIN;80%;Urbano;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1050;MAIPÚ;SAN ROQUE;80%;Urbano;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1052;SAN MARTÍN;PALMIRA;60%;Urbano;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1053;GUAYMALLÉN;KM 11;80%;Rural;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1054;GUAYMALLÉN;RODEO DE LA CRUZ;60%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1055;CAPITAL;SEXTA SECCION;60%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1065;CAPITAL;CIUDAD;10%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1066;GUAYMALLÉN;SAN JOSÉ;60%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1069;SANTA ROSA;VILLA CABECERA;80%;Rural;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1070;LAS HERAS;LA CIENEGUITA;10%;Urbano;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1073;CAPITAL;PRIMERA SECCION;10%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1074;GUAYMALLÉN;CAPILLA DEL ROSARIO;60%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1080;CAPITAL;CUARTA SECCION;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1092;LUJÁN DE CUYO;LUJÁN;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1095;TUNUYÁN;TUNUYÁN;80%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1096;MAIPÚ;MAIPÚ;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1098;JUNIN;LOS BARRIALES;80%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1099;CAPITAL;SEGUNDA SECCION;10%;Urbano;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1103;GUAYMALLÉN;DORREGO;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1106;GUAYMALLÉN;SAN JOSÉ;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1107;RIVADAVIA;SANTA MARÍA DE ORO;80%;Rural;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1108;SAN MARTÍN;SAN MARTÍN;40%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1109;GUAYMALLÉN;VILLA NUEVA;40%;Urbano;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1110;TUPUNGATO;TUPUNGATO;60%;Urbano;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1111;SAN CARLOS;LA CONSULTA;80%;Urbano;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1116;CAPITAL;SEGUNDA SECCION;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1120;CAPITAL;QUINTA SECCION;10%;Urbano;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1121;GUAYMALLÉN;SAN JOSÉ;10%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1125;CAPITAL;QUINTA SECCION;10%;Urbano;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1133;SAN MARTÍN;TRES PORTEÑAS;110%;Rural;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1134;GUAYMALLÉN;JESÚS NAZARENO;10%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1140;GUAYMALLÉN;PUENTE DE HIERRO;80%;Rural marginal;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1141;GUAYMALLÉN;BERMEJO;80%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1142;GUAYMALLÉN;DORREGO;10%;Urbano;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1143;GUAYMALLÉN;CAPILLA DEL ROSARIO;10%;Urbano;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1144;GUAYMALLÉN;RODEO DE LA CRUZ;60%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1154;MAIPÚ;GENERAL GUTIÉRREZ;60%;Urbano;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1162;CAPITAL;CIUDAD;80%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1163;GUAYMALLÉN;BERMEJO;80%;Urbano marginal;-
+Secundario Orientado;Secundario;Pública;02 - Secundario Orientado;1168;GUAYMALLÉN;JESÚS NAZARENO;80%;Rural;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1170;LA PAZ;DESAGUADERO;110%;Rural;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1176;MAIPÚ;FRAY LUIS BELTRÁN;80%;Rural;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1181;SAN CARLOS;CAPIZ ALTO;110%;Rural;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1189;GUAYMALLÉN;EL SAUCE;80%;Rural;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1191;TUNUYÁN;COLONIA LAS ROSAS;80%;Rural;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1198;SAN CARLOS;PAREDITAS;110%;Rural;-
+Secundario Técnico;Secundario;Pública;02 - Secundario Técnico;1199;TUPUNGATO;CORDÓN DEL PLATA;110%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;03 - Secundario Técnico;1200;SAN MARTÍN;ALTO SALVADOR;110%;Rural;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1202;GUAYMALLÉN;COLONIA SEGOVIA;80%;Rural;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1204;GUAYMALLÉN;LA PRIMAVERA;80%;Marginal;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;1209;GUAYMALLÉN;KM 8;80%;Urbano;-
+Secundario Orientado;Secundario;Pública;01 - Secundario Orientado;1224;CAPITAL;CIUDAD;80%;Urbano marginal;-
+Secundario Técnico;Secundario;Pública;01 - Secundario Técnico;1241;MAIPÚ;FRAY LUIS BELTRÁN;110%;Rural;-
+Primario;Primario;Pública;02 - Primario;1450;CAPITAL;SEGUNDA SECCION;10%;Urbano;NORTE
+Primario;Primario;Privada;01 - Primario Privada;1812;CAPITAL;CIUDAD;10%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1813;CAPITAL;CIUDAD;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1817;CAPITAL;CUARTA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1818;CAPITAL;SEGUNDA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1820;CAPITAL;TERCERA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1823;CAPITAL;SEXTA SECCION;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1824;GODOY CRUZ;GODOY CRUZ;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1831;SAN MARTÍN;SAN MARTÍN;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1832;CAPITAL;PRIMERA SECCION;10%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1837;RIVADAVIA;CIUDAD;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1842;GODOY CRUZ;GOBERNADOR BENEGAS;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1844;CAPITAL;SEXTA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1846;CAPITAL;TERCERA SECCION;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1847;SAN MARTÍN;SAN MARTÍN;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1849;CAPITAL;PRIMERA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1852;GODOY CRUZ;VILLA HIPODROMO;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1854;JUNIN;ING GIAGNONI;50%;Rural;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1856;CAPITAL;SEXTA SECCION;50%;Urbano marginal;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1862;CAPITAL;QUINTA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1865;CAPITAL;QUINTA SECCION;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1867;SAN MARTÍN;SAN MARTÍN;10%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1869;CAPITAL;CUARTA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1875;CAPITAL;QUINTA SECCION;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1877;GODOY CRUZ;VILLA HIPODROMO;30%;Urbano marginal;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1878;GODOY CRUZ;VILLA HIPODROMO;20%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1882;LAS HERAS;LAS HERAS;30%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1883;JUNIN;JUNIN;30%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1884;GODOY CRUZ;GODOY CRUZ;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1885;SAN MARTÍN;PALMIRA;20%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1887;LAS HERAS;EL CHALLAO;50%;Urbano marginal;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1905;JUNIN;LA COLONIA;10%;Urbano marginal;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1908;CAPITAL;QUINTA SECCION;50%;Marginal;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1909;CAPITAL;PRIMERA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1910;GODOY CRUZ;GODOY CRUZ;10%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1913;CAPITAL;SEGUNDA SECCION;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;1914;LAS HERAS;EL PLUMERILLO;50%;Urbano marginal;NO CORRESPONDE
+Primario;Primario;Privada;01 - Primario Privada;1918;LAS HERAS;EL ZAPALLAR;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1926;GODOY CRUZ;GODOY CRUZ;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1935;GODOY CRUZ;GODOY CRUZ;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;1936;GODOY CRUZ;GODOY CRUZ;-;Urbano;NO CORRESPONDE
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1947;CAPITAL;TERCERA SECCION;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1948;CAPITAL;PRIMERA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1949;CAPITAL;PRIMERA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1950;CAPITAL;SEXTA SECCION;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1951;LAVALLE;VILLA TULUMAYA (CIUDAD);50%;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1952;CAPITAL;QUINTA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1953;CAPITAL;TERCERA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1954;CAPITAL;CUARTA SECCION;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1955;CAPITAL;SEGUNDA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1956;CAPITAL;SEGUNDA SECCION;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;1957;GUAYMALLÉN;VILLA NUEVA;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1958;CAPITAL;CUARTA SECCION;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1959;CAPITAL;TERCERA SECCION;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1960;GUAYMALLÉN;SAN JOSÉ;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;1961;GUAYMALLÉN;VILLA NUEVA;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1962;CAPITAL;QUINTA SECCION;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;1964;GUAYMALLÉN;SAN JOSÉ;-;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1970;CAPITAL;TERCERA SECCION;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;1975;GUAYMALLÉN;VILLA NUEVA;-;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;1979;GUAYMALLÉN;VILLA NUEVA;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1980;CAPITAL;SEXTA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1985;CAPITAL;PRIMERA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;1987;GUAYMALLÉN;SAN JOSÉ;20%;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1989;CAPITAL;SEXTA SECCION;50%;Urbano marginal;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;1993;CAPITAL;QUINTA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1995;CAPITAL;QUINTA SECCION;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;1998;CAPITAL;CUARTA SECCION;-;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;1999;GUAYMALLÉN;SAN JOSÉ;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2001;GUAYMALLÉN;VILLA NUEVA;-;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;2007;CAPITAL;QUINTA SECCION;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;2015;CAPITAL;SEGUNDA SECCION;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;2017;LAS HERAS;LAS HERAS;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2021;GUAYMALLÉN;LOS CORRALITOS;-;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2027;GUAYMALLÉN;BUENA NUEVA;-;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;2035;CAPITAL;CIUDAD;50%;Urbano marginal;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;2039;CAPITAL;SEGUNDA SECCION;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2041;GUAYMALLÉN;SAN JOSÉ;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;2047;CAPITAL;QUINTA SECCION;50%;Urbano marginal;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2058;GUAYMALLÉN;VILLA NUEVA;Sin Zona;Urbano;-
+Primario;Primario;Pública;02 - Primario;2353;CAPITAL;CUARTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;02 - Primario;2355;CAPITAL;TERCERA SECCION;10%;Urbano marginal;NORTE
+Primario;Primario;Pública;02 - Primario;2358;CAPITAL;TERCERA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;02 - Primario;2361;CAPITAL;SEGUNDA SECCION;10%;Urbano;NORTE
+Primario;Primario;Pública;01 - Primario;2389;CAPITAL;CUARTA SECCION;10%;Urbano;NORTE
+Primario;Primario;Privada;01 - Primario Privada;2565;CAPITAL;TERCERA SECCION;10%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;02 - Primario Privada;2572;LAS HERAS;EL ALGARROBAL;Sin Zona;Rural;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;2586;GODOY CRUZ;LAS TORTUGAS;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;2587;GODOY CRUZ;GODOY CRUZ;Sin Zona;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;2590;GODOY CRUZ;SAN FRANCISCO DEL MONTE;10%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;2639;GODOY CRUZ;GODOY CRUZ;-;-;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;2648;GODOY CRUZ;GODOY CRUZ;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;2661;GODOY CRUZ;GODOY CRUZ;10%;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;2662;GODOY CRUZ;VILLA MARINI;-;Urbano;NO CORRESPONDE
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2667;GUAYMALLÉN;CAPILLA DEL ROSARIO;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2669;GUAYMALLÉN;GENERAL BELGRANO;Sin Zona;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2670;GUAYMALLÉN;VILLA NUEVA;-;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2675;GUAYMALLÉN;SAN JOSÉ;-;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2676;GUAYMALLÉN;SAN JOSÉ;10%;Urbano;-
+Secundario Orientado;Secundario;Privada;01 - Secundario Orientado Privada;2677;GUAYMALLÉN;RODEO DE LA CRUZ;-;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;2680;CAPITAL;CIUDAD;-;Urbano;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;2681;CAPITAL;CIUDAD;-;Urbano;-
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;2682;CAPITAL;CIUDAD;-;Urbano;-
+Primario;Primario;Privada;02 - Primario Privada;3191;SAN MARTÍN;PALMIRA;-;Urbano;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;3206;GODOY CRUZ;GODOY CRUZ;Sin Zona;Urbano;NO CORRESPONDE
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;3210;LAS HERAS;EL PLUMERILLO;50%;Urbano marginal;-
+Secundario Orientado;Secundario;Privada;03 - Secundario Orientado Privada;4394;LAS HERAS;EL CHALLAO;50%;-;-
+Primario;Primario;Privada;03 - Primario Privada;4984;GODOY CRUZ;GODOY CRUZ;-;-;NO CORRESPONDE
+Primario;Primario;Privada;03 - Primario Privada;5087;GODOY CRUZ;GODOY CRUZ;-;-;NO CORRESPONDE
+Secundario Orientado;Secundario;Privada;02 - Secundario Orientado Privada;5089;CAPITAL;CIUDAD;-;-;-
+Secundario Orientado;Secundario;Pública;03 - Secundario Orientado;5111;GUAYMALLÉN;LA PRIMAVERA;80%;-;-
+Primario;Primario;Privada;02 - Primario Privada;5165;LAS HERAS;EL CHALLAO;-;-;NO CORRESPONDE
