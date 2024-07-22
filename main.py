@@ -5,6 +5,9 @@ from src.tools.data_loading import DataLoader
 import src.tools.utils as u
 
 from src.my_models_._A_Nominal_.Nominal import Nominal as mainNom
+from src.my_models_._B_Fluidez_Lectora_1.FluidezLectora import FluidezLectora as mainFL
+
+
 from src.my_models_._A_Nominal_.GroupNominal import GroupNominal as groupNom
 import src.my_models_._C_Reporte.ReporteEscuela as repoEscuela
 
@@ -14,6 +17,9 @@ sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'src'))
 def main():
     nom = mainNom()    
     gNom = groupNom(nom.dataframe_4)
+
+    fl1 = mainFL()
+    
 
     rep = repoEscuela(
         nom.listaEscuelas_IDs ,

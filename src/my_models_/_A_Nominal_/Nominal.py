@@ -16,7 +16,7 @@ class Nominal():
     def run_all(self):
         loader = DataLoader('Nominal.csv')
         dfnom = loader.load_csv()        
-        print('inicializando..')
+        print('inicializando..Nominal')
         _dataframe_1 = conservar_filas_(dfnom , 'CURSO_NORMALIZADO',['1°' , '2°' , '3°' , '4°' , '5°' , '6°' , '7°'])
         # arreglar la columna edad para que queden todos en formato numérico
         _dataframe_2 = fix_columna_edad_(_dataframe_1)                

@@ -53,9 +53,9 @@ class ReporteEscuela() :
                     'matricula_por_escuela' : filtrar_df_Escuela_ID_Alumno_ID_count(Escuela_ID , self.Agrupado_df_Escuela_ID_Alumno_ID_count),
                     'matricula_por_escuela_curso' : filtrar_df_Escuela_ID_CURSO_NORMALIZADO_Alumno_ID_count(Escuela_ID ,  self.Agrupado_df_Escuela_ID_CURSO_NORMALIZADO_Alumno_ID_count),
                     'matricula_por_escuela_curso_división' : filtrar_df_Escuela_ID_CURSO_NORMALIZADO_División_Alumno_ID_count(Escuela_ID , self.Agrupado_df_Escuela_ID_CURSO_NORMALIZADO_División_Alumno_ID_count , lista_de_cursos_escuela),
-                    #'fluidez lectora 1' : {
-                    #   'matricula_por_escuela_fluidez_lectora_1' : self.filtro._fluidez_df_Escuela_ID_Alumno_ID_count(Escuela_ID),
-                    #}
+                    # 'fluidez lectora 1' : {
+                    #    'matricula_por_escuela_fluidez_lectora_1' : self.filtro._fluidez_df_Escuela_ID_Alumno_ID_count(Escuela_ID),
+                    # }
                 }
             }
             # cuando tengo datos procesados de fluidez 1
