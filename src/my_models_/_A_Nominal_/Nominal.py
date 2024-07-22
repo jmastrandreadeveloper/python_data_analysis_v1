@@ -17,7 +17,10 @@ class Nominal():
         loader = DataLoader('Nominal.csv')
         dfnom = loader.load_csv()        
         print('inicializando..Nominal')
-        _dataframe_1 = conservar_filas_(dfnom , 'CURSO_NORMALIZADO',['1°' , '2°' , '3°' , '4°' , '5°' , '6°' , '7°'])
+        # eliminar filas repetidas
+        df_sin_duplicados = dfnom.drop_duplicates()
+        # dejo las filas que me interesan
+        _dataframe_1 = conservar_filas_(df_sin_duplicados , 'CURSO_NORMALIZADO',['1°' , '2°' , '3°' , '4°' , '5°' , '6°' , '7°'])
         # arreglar la columna edad para que queden todos en formato numérico
         _dataframe_2 = fix_columna_edad_(_dataframe_1)                
         # agregar columna Nivel_Unificado    
