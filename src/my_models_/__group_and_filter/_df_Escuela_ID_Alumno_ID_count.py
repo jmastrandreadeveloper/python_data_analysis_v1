@@ -1,6 +1,6 @@
 import pandas as pd
 
-def agrupar_df_Escuela_ID_Alumno_ID_count(dataframe) -> pd.DataFrame:
+def agrupar_df_Escuela_ID_Alumno_ID_count(dataframe: pd.DataFrame) -> pd.DataFrame:
     required_columns = ['Escuela_ID', 'Alumno_ID']
     missing_columns = [col for col in required_columns if col not in dataframe.columns]
     if not missing_columns:

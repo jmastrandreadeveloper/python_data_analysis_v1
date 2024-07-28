@@ -22,9 +22,9 @@ class Nominal():
         # dejo las filas que me interesan
         _dataframe_1 = conservar_filas_(df_sin_duplicados , 'CURSO_NORMALIZADO',['1°' , '2°' , '3°' , '4°' , '5°' , '6°' , '7°'])
         # arreglar la columna edad para que queden todos en formato numérico
-        _dataframe_2 = fix_columna_edad_(_dataframe_1)                
-        # agregar columna Nivel_Unificado    
-        _dataframe_3 = agregar_columna_Nivel_Unificado_(_dataframe_2)        
+        _dataframe_2 = fix_columna_edad_(_dataframe_1)
+        # agregar columna Nivel_Unificado
+        _dataframe_3 = agregar_columna_Nivel_Unificado_(_dataframe_2)
         # reordenar columnas
         self.dataframe_4 = reordenar_columnas_(
             _dataframe_3,
